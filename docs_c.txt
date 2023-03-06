@@ -1,0 +1,31 @@
+POINTER 
+
+int x = 12;
+
+int *p;
+
+p = &x;
+
+-> x = 12
+-> &x = address_x
+
+-> p = address_x 
+-> *p = 12
+
+
+
+malloc -> memory allocated for pointer
+
+free -> memory released
+
+
+
+----------------------------------------
+ARRAY
+
+int arr[] = {111, 222, 333};
+
+-> arr[0] = 111
+-> arr = address_arr
+-> *arr = 111
+
