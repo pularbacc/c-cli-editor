@@ -1,6 +1,8 @@
 
 # Kilo Text Editor
 
+## This code for learn C
+
 ## files
 main.c			: 		main program
 
